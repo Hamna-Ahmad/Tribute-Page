@@ -2,10 +2,6 @@
 
 This is a Tribute Page web application that showcases information about the late actor Heath Ledger. The app is built using HTML and CSS and provides a visually appealing tribute to the actor.
 
-## Preview
-
-![Tribute Page Preview](preview.png)
-
 ## Getting Started
 
 To view and explore the Tribute Page application, follow these steps:
